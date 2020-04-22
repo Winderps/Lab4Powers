@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.exe
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.deps.json
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.runtimeconfig.json
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.dll
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\bin\Debug\netcoreapp3.1\Lab4PowersTable.pdb
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.dll
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.pdb
+C:\Users\Winderps\source\repos\Lab4PowersTable\Lab4PowersTable\obj\Debug\netcoreapp3.1\Lab4PowersTable.genruntimeconfig.cache
